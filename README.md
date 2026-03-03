@@ -23,7 +23,8 @@ Shows the initialization of the Python-based Lambda function `Threat-Intelligenc
 
 ### 4. Implementing Least Privilege
 Shows the IAM Role configuration, granting the scanner restricted `ReadOnlyAccess` to S3.
-<img width="1920" height="858" alt="Project_The_Cyber_Threat_Intelligence_7" src="https://github.com/user-attachments/assets/7555e284-f73a-480f-890a-0371dd7daf30" />
+<img width="1920" height="858" alt="Project_The_Cyber_Threat_Intelligence_7" src="https://github.com/user-attachments/assets/6bd2ae00-532f-467f-bbd3-ad87c0a25355" />
+
 
 
 ### 5. Developing the Logic
@@ -33,9 +34,12 @@ Shows the Python script using `boto3` to parse the feed and search for specific 
 
 ### 6. Successful Threat Detection
 Shows the Lambda execution result returning a "Threat Detected" status after a domain match.
-<img width="1920" height="869" alt="Project_The_Cyber_Threat_Intelligence_8" src="https://github.com/user-attachments/assets/70a1f534-f0a3-4809-a5f2-0944d942da70" />
+<img width="1920" height="869" alt="Project_The_Cyber_Threat_Intelligence_8" src="https://github.com/user-attachments/assets/dc5ba77a-c75c-46ad-9cb3-255fe351fb96" />
+
 
 
 ### 7. Security Auditing & Logging
 Shows the detailed CloudWatch Log stream capturing the specific "ALERT" for security teams.
-![Photo Placeholder: Project_The_Cyber_Threat_Intelligence_9.png]
+<img width="1920" height="863" alt="Project_The_Cyber_Threat_Intelligence_9" src="https://github.com/user-attachments/assets/f4ac1412-91af-4a37-953a-c5a3465bf236" />
+
+
